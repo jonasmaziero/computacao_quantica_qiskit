@@ -1,0 +1,38 @@
+Texto baseado em https://youtu.be/L1TPD43UTZM
+Versões do qiskit: https://qiskit.org/documentation/release_notes.html
+
+- pip show qiskit (para ver a versão do qiskit instalada)
+- conda create --name qiskit-36 (cria um novo ambiente conda, vazio, com nome qiskit-36)
+- conda info -e (para ver que ambientes conda existem)
+- conda activate qiskit-36 (para ativar o ambiente conda qiskit-36)
+- sudo apt install python3-pip (instala o pip)
+- pip install qiskit (instala a última versão do qiskit)
+
+- pip install -U qiskit==0.36.2 (faz o downgrade do qiskit para a versão desejada)
+
+- pip show qiskit (mostra a versão do qiskit instalada, para verificação)
+- sudo apt install jupyter (instala o Jupyter)
+- jupyter-notebook (abre o Jupyter no novo ambiente)
+- pip install pylatexenc (para mostrar os circuitos quânticos)
+- conda deactivate (para desativar o ambiente)
+- conda remove --name qiskit-36 --all (remove o ambiente conda e tudo que tem nele)
+
+Essa forma não funcionou bem
+
+Solução do Vitor
+
+- cria pasta
+- virtualenv qiskit-36
+- source bin/activate
+- pip install qiskit==0.39.4
+- pip list
+
+Ver mais em
+https://docs.python.org/3.10/tutorial/venv.html
+
+
+Solução do Diego Starke:
+- conda create -n env env_name python=3
+- conda activate env_name
+- conda install ipykernel
+- python -m ipykernel install --user --name==env_name

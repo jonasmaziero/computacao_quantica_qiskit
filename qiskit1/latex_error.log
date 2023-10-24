@@ -1,0 +1,79 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/var/folders/c1/_8nwnwc923z5dw_vmskv8p5r0000gn/T/tmplk94q3j_/circuit.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2012/09/15 v1.1b Class to compile TeX sub-files stan
+dalone
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/standalone/standalone.cfg)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/qcircuit/qcircuit.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xy.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xy.tex Bootstrap'ing:
+catcodes, docmode,
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xyrecat.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xypdf.tex
+ Xy-pic option: PDF driver v.1.7 loaded))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.14 loaded)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+Xy-pic pdf driver: `frame' extension support
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xypdf-fr.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.12 curve, circles, loaded)
+Xy-pic pdf driver: `curve' extension support
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xypdf-cu.tex loaded)
+loaded) (/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xypic/xyarc.tex
+ Xy-pic option: Circle, Ellipse, Arc feature v.3.8 circles, ellipses,
+elliptical arcs, loaded))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+No file circuit.aux.
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+<xymatrix
+! Undefined control sequence.
+<argument>  \\ \nghost 
+                       { {q}_{0} : } & \lstick { {q}_{0} : } & \gate {\mathr...
+l.11 \\ }}
+          
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on /var/folders/c1/_8nwnwc923z5dw_vmskv8p5r0000gn/T/tmplk94q
+3j_/circuit.log.
